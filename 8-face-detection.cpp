@@ -8,7 +8,7 @@ using namespace cv;
 using namespace std;
 
 
-///////////////  Images  //////////////////////
+///////////////  Face detection  //////////////////////
 
 void main() {
 
