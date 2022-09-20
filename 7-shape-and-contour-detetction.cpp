@@ -7,7 +7,7 @@ using namespace cv;
 using namespace std;
 
 
-///////////////////  Images  //////////////////////
+///////////////////  Shape and contour detection  //////////////////////
 
 Mat imgGray, imgBlur, imgCanny, imgDil;
 
